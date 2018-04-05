@@ -1,0 +1,6 @@
+C:\Users\mattl\source\repos\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+C:\Users\mattl\source\repos\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+C:\Users\mattl\source\repos\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\mattl\source\repos\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
+C:\Users\mattl\source\repos\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.fsprojResolveAssemblyReference.cache
+C:\Users\mattl\source\repos\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.fsproj.CoreCompileInputs.cache

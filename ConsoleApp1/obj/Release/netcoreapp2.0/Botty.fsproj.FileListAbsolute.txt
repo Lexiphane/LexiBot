@@ -1,0 +1,8 @@
+C:\Users\mattl\source\repos\ConsoleApp1\bin\Release\netcoreapp2.0\Botty.deps.json
+C:\Users\mattl\source\repos\ConsoleApp1\bin\Release\netcoreapp2.0\Botty.runtimeconfig.json
+C:\Users\mattl\source\repos\ConsoleApp1\bin\Release\netcoreapp2.0\Botty.runtimeconfig.dev.json
+C:\Users\mattl\source\repos\ConsoleApp1\bin\Release\netcoreapp2.0\Botty.dll
+C:\Users\mattl\source\repos\ConsoleApp1\bin\Release\netcoreapp2.0\Botty.pdb
+C:\Users\mattl\source\repos\ConsoleApp1\obj\Release\netcoreapp2.0\Botty.dll
+C:\Users\mattl\source\repos\ConsoleApp1\obj\Release\netcoreapp2.0\Botty.pdb
+C:\Users\mattl\source\repos\ConsoleApp1\obj\Release\netcoreapp2.0\Botty.fsprojResolveAssemblyReference.cache

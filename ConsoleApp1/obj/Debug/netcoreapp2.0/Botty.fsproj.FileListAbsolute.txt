@@ -1,0 +1,1 @@
+C:\Users\mattl\source\repos\ConsoleApp1\obj\Debug\netcoreapp2.0\Botty.fsprojResolveAssemblyReference.cache

@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Botty", "Botty.fsproj", "{1E7D1E91-9AC3-487C-B5FD-51E01706A018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Lexi.exe|Any CPU = Lexi.exe|Any CPU
+		Lexi.exe|x64 = Lexi.exe|x64
+		LexiBot.exe|Any CPU = LexiBot.exe|Any CPU
+		LexiBot.exe|x64 = LexiBot.exe|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E7D1E91-9AC3-487C-B5FD-51E01706A018}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7D1E91-9AC3-487C-B5FD-51E01706A018}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{1E7D1E91-9AC3-487C-B5FD-51E01706A018}.Debug|x64.ActiveCfg = Debug|x64
+		{1E7D1E91-9AC3-487C-B5FD-51E01706A018}.Lexi.exe|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7D1E91-9AC3-487C-B5FD-51E01706A018}.Lexi.exe|x64.ActiveCfg = Lexi.exe|x64
+		{1E7D1E91-9AC3-487C-B5FD-51E01706A018}.Lexi.exe|x64.Build.0 = Lexi.exe|x64
+		{1E7D1E91-9AC3-487C-B5FD-51E01706A018}.LexiBot.exe|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7D1E91-9AC3-487C-B5FD-51E01706A018}.LexiBot.exe|Any CPU.Build.0 = Release|Any CPU
+		{1E7D1E91-9AC3-487C-B5FD-51E01706A018}.LexiBot.exe|x64.ActiveCfg = LexiBot.exe|x64
+		{1E7D1E91-9AC3-487C-B5FD-51E01706A018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7D1E91-9AC3-487C-B5FD-51E01706A018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E7D1E91-9AC3-487C-B5FD-51E01706A018}.Release|x64.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {819C2E36-6EE5-4CBB-A16B-B83328F36281}
+	EndGlobalSection
+EndGlobal
